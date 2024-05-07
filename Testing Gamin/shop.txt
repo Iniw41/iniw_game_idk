@@ -1,0 +1,18 @@
+Items, price, stock
+Small health potion,10g,99
+Medium health potion,25g,99
+Large health potion,75g,99
+Ult potion,100g,99
+DD potion,100g,99
+Absorption potion,50g,99
+Short Sword,250g,1
+Long Sword,250g,1
+
+
+    ["Medium health potion",'25g',99]
+    ["Large health potion",'75g',99]
+    ["Ult potion",'100g',99]
+    ["DD potion",'100g',99]
+    ["Absorption potion",'50g',99]
+    ["Short Sword",'250g',1]
+    ["Long Sword",'250g',1]
